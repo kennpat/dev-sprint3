@@ -1,0 +1,23 @@
+Answers from Lab 3 - Chapter 9
+Patrick Kennedy
+4/27/14
+
+
+What does file.readline do?
+
+It reads one line from a file, which if you want to read the entire file; use file.redlines instead.
+
+What does String.strip do?
+
+It returns a copy of the string with leading and trailing characters removed. 
+
+
+
+9.4 extra question:
+Can you make a sentence using only the letters acefhlo? Other than "Hoe alfalfa":
+
+yup - "Hello chef helo face ace "
+
+
+
+
